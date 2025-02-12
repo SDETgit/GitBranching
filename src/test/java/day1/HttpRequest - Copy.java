@@ -5,7 +5,7 @@ import static io.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.*;
 
 import java.util.HashMap;
-
+import java.util.HashMap;import java.util.HashMap;import java.util.HashMap;import java.util.HashMap;import java.util.HashMap;import java.util.HashMap;
 /*
  
 //Get users 
