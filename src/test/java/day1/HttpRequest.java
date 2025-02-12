@@ -97,6 +97,14 @@ int id;
 		.then()
 			.statusCode(204);
 	}
+	@Test(priority =5)
+	void deleteUser5(){
+		given().
+		when()
+			.delete("https://reqres.in/api/users/"+id)
+		.then()
+			.statusCode(204);
+	}
 	}
 
 
